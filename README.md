@@ -40,4 +40,4 @@ For a deep dive into the system's software engineering design, please refer to t
 * **Application Flow:** See Untitled Diagram (8).jpg for the Manager's sequence logic and Untitled Diagram (9).jpg for the Cashier's sequence logic.
 
 ---
-*Developed by Dula | Software Engineering Undergraduate*
+*Developed by Dulara_ya | Software Engineering Undergraduate*
